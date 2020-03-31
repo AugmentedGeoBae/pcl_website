@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Point Cloud Library
 
-You can use the [editor on GitHub](https://github.com/AugmentedGeoBae/pcl_website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
 
 ### Markdown
 
